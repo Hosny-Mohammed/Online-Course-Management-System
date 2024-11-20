@@ -34,7 +34,7 @@ namespace Online_Course_Management_System.Repositories.Course_Repository
 
             if (dto.Instructor != null && dto.Instructor != "")
             {
-                var validInstructor = await _context.Instructors.FirstOrDefaultAsync(x => x.Name == dto.Classroom);
+                var validInstructor = await _context.Instructors.FirstOrDefaultAsync(x => x.Name == dto.Instructor);
                 if (validInstructor != null)
                 {
                     course.InstructorId = validInstructor.Id;
