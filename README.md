@@ -218,7 +218,7 @@ Contributions are welcome! Please read the [CONTRIBUTING.md](CONTRIBUTING.md) do
 
 ## Authors
 
-- **Your Name** - *Initial work* - [Your GitHub Profile](https://github.com/Hosny-Mohammed)
+- **Hosny Mohammed** - *SWE* - [Hosny-Mohammed](https://github.com/Hosny-Mohammed)
 
 ## License
 
